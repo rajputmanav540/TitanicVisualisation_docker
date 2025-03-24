@@ -33,6 +33,7 @@ streamlit run app.py
 ## **🔹 Snapshots of the App**  
 
 ### **Home Page**
+![Home Page](https://raw.githubusercontent.com/rajputmanav540/TitanicVisualisation_docker/refs/heads/main/images/home_page.png)
 
 
 
