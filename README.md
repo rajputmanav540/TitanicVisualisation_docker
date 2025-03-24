@@ -33,6 +33,6 @@ streamlit run app.py
 ## **🔹 Snapshots of the App**  
 
 ### **Home Page**
-![Home Page](images/home_page_v1.png)
+![Home Page](images/home_page.png)
 
 
