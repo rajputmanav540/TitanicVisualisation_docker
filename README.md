@@ -29,10 +29,14 @@ Step 3: Run the Streamlit App
 bash
 streamlit run app.py
 
+### Docker Architecture Diagram
 
-## **🔹 Snapshots of the App**  
+Below is a visual representation of the Docker architecture:
 
-![Home Page](https://raw.githubusercontent.com/rajputmanav540/TitanicVisualisation_docker/refs/heads/main/images/home_page.png)
+![Docker Architecture](images/home_page.png)
+
+This diagram illustrates the relationship between the key components mentioned above. The Docker Daemon runs on the host machine and manages the creation and execution of containers. Users interact with Docker through the CLI, while the images and containers reside in the system's filesystem. The Docker registry holds the images, making it easier for users to pull and push images from a centralized location.
+
 
 
 
