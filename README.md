@@ -54,11 +54,10 @@ Now, open your browser and go to `http://localhost:8501` to access the app.
 
 ## **🔹 Docker Architecture Diagram**
 
-Below is a visual representation of the Docker architecture:
+Below is a snapshot of the project 
 
 ![Docker Architecture](images/home_page.png)
 
-This diagram illustrates the relationship between the key components mentioned above. The **Docker Daemon** runs on the host machine and manages the creation and execution of containers. Users interact with Docker through the **CLI**, while the images and containers reside in the system's filesystem. The **Docker registry** holds the images, making it easier for users to pull and push images from a centralized location.
 
 ---
 
